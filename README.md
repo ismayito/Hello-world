@@ -3,10 +3,7 @@
 
 > This is a hello world microverse project
 
-**[your_project__name]** is a...
-
 ## 🛠 Built With:
- <
 - Major languages
  1.Html
  2.css
@@ -14,8 +11,6 @@
 ### Tech Stack 
 - Technologies used
  1 .Git, Github and linters
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started 
 
